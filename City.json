@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name":"Khammam",
+        "pic":"https://st2.indiarailinfo.com/kjfdsuiemjvcya2/0/2/6/7/3211267/0/picsart03170994130.jpg"
+    },
+    {
+        "id":2,
+        "name" :"Warangal",
+        "pic":"https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/05/og-warangal.jpg"
+    }
+    ,
+    {
+        "id":3,
+        "name" :"Nalgonda",
+        "pic":"https://st2.indiarailinfo.com/kjfdsuiemjvcya2/0/2/6/7/3211267/0/picsart03170994130.jpg"
+    }
+    ,
+    {
+        "id":4,
+        "name" :"Kothagudem",
+        "pic":"https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/05/og-warangal.jpg"
+    }
+]
